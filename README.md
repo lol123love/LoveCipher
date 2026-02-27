@@ -39,7 +39,7 @@ git clone https://github.com/Vendicated/Vencord
 2. Download `index.ts` from this repository and place it into:
 
 ```
-Vencord/src/userplugins/
+Vencord/src/userplugins/lovecipher/
 ```
 
 3. Open a terminal inside the Vencord folder and run:
